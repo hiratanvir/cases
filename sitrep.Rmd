@@ -1,1 +1,5 @@
 Comparison of attack rates in different sex groups
+
+This can identify priority groyps for interventions
+Map illustrates the spread and impact of outbreak
+Read shapefiles with the {sf} R package
